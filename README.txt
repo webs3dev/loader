@@ -35,9 +35,14 @@ void MainLoop()
 }
 
 
+README.txt
+-----------
+this whole source code is based off of https://github.com/ocornut/imgui and using its core libary so if you want to know about it just go over at https://github.com/ocornut/imgui/wiki and read , id also recommend compiling this in visual stuido , since it will be faster and easier prob could read at https://www.reddit.com/r/Cplusplus/comments/w32xj1/how_to_compile_c_code_on_vscode/
+
 
 references:
 -----------
 
 - https://github.com/ocornut/imgui
 - https://github.com/ocornut/imgui/wiki
+
