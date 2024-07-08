@@ -39,5 +39,5 @@ void MainLoop()
 references:
 -----------
 
-- [ImGui GitHub Repository](https://github.com/ocornut/imgui)
-- [ImGui Documentation](https://github.com/ocornut/imgui/wiki)
+- https://github.com/ocornut/imgui
+- https://github.com/ocornut/imgui/wiki
