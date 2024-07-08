@@ -1,6 +1,7 @@
 simple csgo loader that looks really cool
 
-```cpp
+example cpp 
+----------------------
 #include "imgui.h"
 
 void RenderImGui()
@@ -32,7 +33,7 @@ void MainLoop()
         // resent frame, etc.
     }
 }
-```
+
 
 
 references:
